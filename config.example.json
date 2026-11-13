@@ -1,0 +1,23 @@
+{
+  "customer_id": "YOUR_LSA_CUSTOMER_ID",
+  "data_dir": "./data",
+  "token_file": "~/.config/lsa/token.json",
+  "leap_api_base": "https://api.jobprogress.com/api/v3",
+  "login_customer_id": "",
+  "leads_csv": "",
+  "sheet_id": "YOUR_SHEET_ID",
+  "won_stages": [
+    "Signed / No Production",
+    "Ready to Produce",
+    "Job Completed",
+    "Q.C. and billed",
+    "Paid",
+    "Work"
+  ],
+  "service_names": {
+    "roof_installation": "Roof installation",
+    "roof_repair": "Roof repair",
+    "roof_inspection": "Roof inspection",
+    "repair_maintenance_siding_pro": "Siding repair & maintenance"
+  }
+}
