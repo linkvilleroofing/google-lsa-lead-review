@@ -1,0 +1,22 @@
+# Secrets and local config
+.env
+config.json
+token.json
+**/token.json
+
+# Runtime data
+data/
+recordings/
+transcripts/
+*.mp3
+state.json
+pending_rows.json
+leap_cache.json
+classifications.json
+sheet.json
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
